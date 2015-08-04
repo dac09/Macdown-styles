@@ -248,7 +248,7 @@ html {
 body {
   font: 100%/1.388 AvenirNext-Regular, Futura, "Century Gothic", AppleGothic, Corbel, "Myriad Pro", "Lucida Grande", "Trebuchet Ms", sans-serif;
   color: #111;
-  padding: 0 5% 1rem !important;
+  padding: 2.5% 5% 5% !important;
 }
 a {
   color: crimson;
